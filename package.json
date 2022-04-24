@@ -23,6 +23,6 @@
     "react": "^17.0.1"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "@jmau111:registry":"https://npm.pkg.github.com"
   }
 }
