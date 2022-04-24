@@ -1,6 +1,6 @@
 {
- "name": "gatsby-plugin-dns-prefetch",
-  "version": "1.0.1",
+  "name": "gatsby-plugin-dns-prefetch",
+  "version": "1.0.2",
   "description": "GatsbyJS plugin for DNS prefetch metas",
   "main": "index.js",
   "author": "jmau111",
@@ -21,8 +21,5 @@
   ],
   "dependencies": {
     "react": "^17.0.1"
-  },
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
-  },
+  }
 }
