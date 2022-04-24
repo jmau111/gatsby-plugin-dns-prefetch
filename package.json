@@ -1,0 +1,25 @@
+{
+	"name": "gatsby-plugin-dns-prefetch",
+	"version": "1.0.0",
+	"description": "GatsbyJS plugin ",
+	"main": "index.js",
+	"author": "jmau111",
+	"license": "MIT",
+	"homepage": "https://github.com/jmau111/gatsby-plugin-dns-prefetch#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jmau111/gatsby-plugin-dns-prefetch.git"
+	},
+	"bugs": {
+		"url": "https://github.com/jmau111/gatsby-plugin-dns-prefetch/issues"
+	},
+	"keywords": [
+		"gatsby",
+		"gatsby-plugin",
+		"performance",
+		"dns-prefetch"
+	],
+	"dependencies": {
+		"react": "^17.0.1"
+	}
+}
