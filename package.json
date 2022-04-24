@@ -20,7 +20,7 @@
     "dns-prefetch"
   ],
   "dependencies": {
-    "react": "^17.0.1"
+    "react": "^18.0.0"
   },
   "publishConfig": {
     "@jmau111:registry":"https://npm.pkg.github.com"
