@@ -1,6 +1,6 @@
 {
 	"name": "gatsby-plugin-dns-prefetch",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "GatsbyJS plugin ",
 	"main": "index.js",
 	"author": "jmau111",
