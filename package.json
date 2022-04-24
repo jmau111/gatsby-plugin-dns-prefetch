@@ -8,7 +8,7 @@
   "homepage": "https://github.com/jmau111/gatsby-plugin-dns-prefetch#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jmau111/gatsby-plugin-dns-prefetch.git"
+    "url": "git://github.com/jmau111/gatsby-plugin-dns-prefetch.git"
   },
   "bugs": {
     "url": "https://github.com/jmau111/gatsby-plugin-dns-prefetch/issues"
