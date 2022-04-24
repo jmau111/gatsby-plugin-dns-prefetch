@@ -1,7 +1,7 @@
 {
 	"name": "gatsby-plugin-dns-prefetch",
 	"version": "1.0.1",
-	"description": "GatsbyJS plugin ",
+	"description": "GatsbyJS plugin for DNS prefetch metas",
 	"main": "index.js",
 	"author": "jmau111",
 	"license": "MIT",
