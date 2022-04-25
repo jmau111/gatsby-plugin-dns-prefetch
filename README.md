@@ -6,7 +6,7 @@
 
 Gatsby plugin to generate metas for DNS prefetch specific domains
 
-![](/screen.png)
+![](https://github.com/jmau111/gatsby-plugin-dns-prefetch/raw/main/screen.png)
 
 ## Install
 
