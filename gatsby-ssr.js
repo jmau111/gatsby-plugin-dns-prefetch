@@ -3,7 +3,7 @@ const { createElement } = require(`react`);
 exports.onRenderBody = ({ setHeadComponents }, pluginOptions) => {
   
   if (pluginOptions.domains === undefined || pluginOptions.domains.length === 0) {
-    const error = 'You are misusing the plugin Gatsby DNS Prefetch, please provide domains in the plugin options.';
+    const error = 'You are misusing the plugin Gatsby DNS Prefetch, please provide domains in the plugin options. See https://github.com/jmau111/gatsby-plugin-dns-prefetch#usage.';
     console.error(error);
     throw new Error(error);
   }
